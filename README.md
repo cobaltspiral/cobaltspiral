@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![My skyline](https://raw.githubusercontent.com/cobaltspiral/cobaltspiral/output/skyline.svg)
 
 <!--
 **cobaltspiral/cobaltspiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
