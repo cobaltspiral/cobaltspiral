@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- header
+- about me
+- featured projects
+- substack link (I write about my tech journey here)
+- tech stack
+- currently learning
+- now playing
+- now reading
+- where to find me
 -->
