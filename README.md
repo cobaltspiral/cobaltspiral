@@ -1,7 +1,7 @@
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 <!-- About me --> 
-# 🔮About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&letterSpacing=+normal&pause=1000&color=FD7DDA&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
 - 🔭 Language researcher turned software engineer
 - 🌱 #learninginpublic at [diaryofanewbie.substack.com](https://diaryofanewbie.substack.com)
