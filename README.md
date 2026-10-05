@@ -1,5 +1,3 @@
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
 <div id="user-content-toc"> 
   <ul style="list-style: none; margin: 0; padding: 0;"> 
   <summary style="margin: 0; padding: 9;">
