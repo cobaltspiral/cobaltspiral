@@ -4,7 +4,7 @@
 # 🔮About me
 
 - 🔭 Language researcher turned software engineer
-- 🌱 #learninginpublic at [diaryofanewbie.substack.com/](https://diaryofanewbie.substack.com)
+- 🌱 #learninginpublic at [diaryofanewbie.substack.com](https://diaryofanewbie.substack.com)
 - 💬 Translation Technology Specialist
 - 💙 Zine-maker
 - 💻 Open to junior software development opportunities
