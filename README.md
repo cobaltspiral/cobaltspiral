@@ -20,6 +20,19 @@
 <!-- Divider --> 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
+<!-- Latest blog posts -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1500&pause=980&color=FD7DDA&repeat=false&width=435&lines=Latest+;Blog+posts)](https://git.io/typing-svg)
+
+<a href="https://diaryofanewbie.substack.com/p/hacktoberfest26-week-1-challenge"><img width="619" height="131" alt="substackscreenshot" src="https://github.com/user-attachments/assets/0404f00d-ef1b-46c7-8f9f-bacfcf171758" /><a/>
+
+<br/>
+
+<a href="https://diaryofanewbie.substack.com/p/a-beginners-guide-to-react-part-1"><img width="619" height="124" alt="substack2" src="https://github.com/user-attachments/assets/ca925162-eec3-47b1-88f5-e1b0f91f4ff1" /><a/>
+
+
+<!-- Divider --> 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
 <!-- Skyline contribution graph --> 
 ![My skyline](https://raw.githubusercontent.com/cobaltspiral/cobaltspiral/output/skyline.svg)
 
